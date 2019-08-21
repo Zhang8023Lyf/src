@@ -1,0 +1,85 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.box{
+  width: 100%;
+  height: 100%;
+  background: darkgray;
+}
+.header{
+  width: 100%;
+  height: 150px;
+  background: black;
+  color: white;
+  font-size: 17px;
+}
+.header span{
+  float: right;
+  margin-right: 170px;
+  margin-top: 60px;
+}
+.two{
+  width: 300px;
+  height: 310px;
+  position: absolute;
+  top: 150px;
+  right: 40px;
+  background: rgb(235, 227, 227);
+  border-radius: 5px;
+  color: black;
+}
+.con{
+  width: 80%;
+  height: 550px;
+  margin: 0 auto;
+  background: white;
+}
+.qiu{
+  width: 80%;
+  height: 80px;
+  margin: 0 auto;
+}
+.qiu span{
+  margin-left: 40px;
+  line-height: 100px;
+}
+.lm{
+  width: 310px;
+  height: 550px;
+  border-right: 1px solid darkgray;
+  float: left;
+  text-align: center;
+}
+.lm div img{
+  width: 200px;
+  height: 270px;
+}
+.lm div{
+  margin-top: 5px;
+}
+.name_title{
+  font-size: 17px;
+  font-size: 800;
+}
+.name_na{
+  color: darkgray;
+}
+.price{
+  color: red;
+  font-size: 15px;
+}
+.but button{
+    border: none;
+    border-radius: 20px;
+    margin-left: 10px;
+}
+.but button:hover{
+  background: aquamarine;
+}
+.jia{
+  margin-top: 20px;
+}
+.two ul li p img{
+  width: 100px;
+}

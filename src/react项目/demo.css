@@ -1,0 +1,112 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.header{
+  width: 100%;
+  font-size: 17px;
+  line-height: 70px;
+  display: flex;
+  justify-content: space-between;
+}
+.ant-menu-item ant-menu-item-selected{
+  background: black;
+}
+.left{
+  position: fixed;
+  top: 0;
+}
+.Qw{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.Qe{
+  width: 25%;
+  border: 1px solid #CCC;
+  color: cornflowerblue;
+  height: 60px;
+  margin-left: 6%;
+  line-height: 25px;
+  margin-top: 30px;
+}
+.Qr{
+  background: #CCD;
+  color: black;
+}
+.Qe img{
+  width: 90%;
+}
+.Q{
+  height: 60px;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1%;
+}
+.Q .img{
+  width: 30%;
+}
+.Qt{
+  width: 70%;
+  color: black;
+}
+.Qt div{
+  margin: 0;
+  padding: 0;
+}
+.Qy{
+  border-bottom: 1px solid #CCC;
+  width: 25%;
+  color: cornflowerblue;
+  margin-left: 6%;
+  margin-top: 30px;
+  color: black;
+  text-align: left;
+}
+.Qu{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.Qi{
+  width: 50%;
+}
+.Qii{
+  text-align: right;
+  color: salmon;
+}
+.Qp{
+  width: 40.5%;
+  margin-left: 6%;
+  margin-top: 30px;
+  border: 1px solid #CCC;
+}
+.Qa{
+  text-align: left;
+  background: #CCC;
+  padding: 10px;
+}
+.Qs{
+  width: 100%;
+  display: flex; 
+  flex-wrap: wrap;
+}
+.Qd{
+  width: 25%;
+  padding: 3%;
+}
+.Qg{
+  width: 87%;
+  margin-left: 6%;
+  margin-top: 30px;
+  border: 1px solid #CCC;
+}
+.shou{
+  width: 150px;
+  height: 40px;
+  position: fixed;
+  left: 18%;
+  top: 10%;
+  background: red;
+}
+

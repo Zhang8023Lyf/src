@@ -1,0 +1,31 @@
+.did{
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.tr{
+    width: 20%;
+    margin-top: 40px;
+}
+.tr input{
+    width: 100%;
+    height: 30px;
+}
+.tf{
+    width: 40%
+}
+.tf img{
+    width: 90%
+}
+.td{
+    width: 40%;
+}
+.td div{
+    margin: 5px;
+}
+.ta{
+    color: red
+}
+.tg{
+    margin-left: 20px;
+}

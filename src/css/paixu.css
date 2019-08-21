@@ -1,0 +1,45 @@
+.li{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 15px;
+}
+.dian{
+  width: 70%;
+}
+.din{
+  width: 20%
+}
+.pai{
+  display: flex;
+  justify-content: space-around;
+}
+.xu{
+  margin-top: 20px;
+}
+input{
+  width: 300px;
+  margin-top: 20px;
+  height: 30px;
+  border: none;
+  border: 1px solid darkgray;
+}
+button{
+  width: 60px;
+  height: 50px;
+  background: greenyellow;
+  color: white;
+  border: none;
+}
+ul,div,body,h4{
+  margin: 0;
+  padding: 0;
+}
+.din img{
+  width: 90%;
+}
+
+
+.b{
+  color: red;
+}

@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.fen{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 10px;
+  border-bottom: 1px solid #CCC;
+}
+.imgt{
+  width: 10%;
+}
+.imgt img{
+  width: 80%;
+  
+}
+.pin{
+  background: yellow;
+  color: brown;
+  padding: 2px;
+}
+.xing{
+  color: yellow;
+  
+}
+.se{
+  color: black;
+}
+*{
+  text-decoration: none;
+}

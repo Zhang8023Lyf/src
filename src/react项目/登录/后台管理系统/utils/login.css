@@ -1,0 +1,96 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.login{
+  width: 100%;
+  height: 350px;
+  background: #409EFF;
+  position: absolute;
+  top: 25%;
+}
+.inp{
+  width: 400px;
+  height: 500px;
+  position: absolute;
+  left: 40%;
+  top: 10%;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 10px 10px 5px #888888;
+}
+.inp div:nth-of-type(1){
+  width: 100%;
+  height: 10px;
+  background: #409EFF;
+  border-radius: 5px;
+}
+.inp div:nth-of-type(2){
+  width: 100%;
+  height: 150px;
+  font-size: 50px;
+  text-align: center;
+  color: #409EFF
+}
+.deng{
+  width: 100%;
+  height: 200px;
+  text-align: center;
+}
+.deng input{
+  width: 90%;
+  height: 40px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+.lu{
+  width: 100%;
+  text-align: center;
+}
+.lu button{
+  width: 90%;
+  height: 40px;
+}
+.shoplist{
+  width: 98%;
+  height: 250px;
+  border: 1px solid darkgray;
+  border-radius: 10px;
+  margin: 0 auto;
+}
+.top{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  font-size: 17px;
+  font-weight: 800;
+}
+.top span button{
+  margin-right: 15px;
+}
+.top1{
+  margin-left: 5%;;
+  width: 60%;
+}
+.top1 p{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+
+}
+.top1 p span input{
+  width: 74%;
+}
+.spc{
+  width: 98%;
+  height: 50px;
+  margin: 0 auto;
+  margin-top: 10px;
+  border-radius: 5px;
+  border: 1px solid darkgray;
+  font-size: 17px;
+  line-height: 30px;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}

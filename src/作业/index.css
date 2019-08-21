@@ -1,0 +1,99 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.footer{
+  background: white;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  border-top: 1px solid darkgray;
+}
+.footer ul{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+header{
+  width: 100%;
+  height: 4.5rem;
+  background: #1AACFF;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+header span{
+  color: white;
+  font-size: 0.9rem;
+}
+header p input{
+  width: 97%;
+  margin-left: 0.2rem;
+  height: 2rem;
+  text-align: center;
+  border: none;
+  margin-top: 0.3rem;
+}
+.swiper-slide{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.Link_to_food{
+  width: 25%;
+  text-align: center;
+}
+.con{
+  width: 100%;
+  flex: 1;
+  /* height: 9rem; */
+  overflow: hidden;
+
+}
+.swiper-container {
+  width: 100%;
+  height: 9rem;
+  border-bottom: 2px solid darkgray;
+}  
+.swiper-container img{
+  width: 2rem;
+  height: 2rem;
+}
+.gao{
+  width: 100%;
+  height: 30%;
+  border-bottom: 1px solid #CCC;
+}
+.fen{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+.imgt{
+  width: 15%;
+}
+.imgt img{
+  width: 80%;
+  
+}
+.tit{
+  margin-left: 1rem;
+}
+.pin{
+  background: yellow;
+  color: brown;
+  padding: 2px;
+}
+.xing{
+  color: yellow;
+  
+}
+.se{
+  color: black;
+}
+*{
+  text-decoration: none;
+}
